@@ -30,8 +30,11 @@ Permitir ao usuário consultar informações de veículos (carros, motos e camin
 ## 💻 Exemplo de Uso
 
 1 - Digite o tipo de veículo (carros, motos, caminhoes): carros
+
 2 - Digite o código da marca: 21
+
 3 - Digite o nome do carro desejado: cronos
+
 4 - Digite o codigo do modelo: 8778
 
 ## 📤 Saída esperada:
